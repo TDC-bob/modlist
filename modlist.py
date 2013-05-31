@@ -1,7 +1,8 @@
 __author__ = 'bob'
 
 mods = {
-    "test-mod": {
-        "repo": "https://github.com/TDC-bob/test-mod.git"
+    "mod-exports": {
+        "remote": "https://github.com/TDC-bob/mod-exports.git",
+        "branch": "master"
     }
 }
