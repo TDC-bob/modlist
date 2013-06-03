@@ -11,7 +11,7 @@ mods = {
         "remote": "https://github.com/TDC-bob/mod-kneeboard-export.git",
         "branch": "master",
         "version": 1,
-        "desc": "Export de la kneeboard à la position voulue (voir http://forums.eagle.ru/showthread.php?t=107586)"
+        "desc": "Export de la kneeboard à la position voulue (fichier README inclus, à lire)"
     }
 }
 
