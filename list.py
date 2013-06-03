@@ -5,8 +5,7 @@ mods = {
         "remote": "https://github.com/TDC-bob/mod-exports.git",
         "branch": "master",
         "version": 1,
-        "desc": "Exports des différents affichages (CDU, RWR, horloge, etc ...) pour les afficher"
-                "sur un second écran"
+        "desc": "Exports des différents affichages (CDU, RWR, horloge, etc ...) pour pouvoir les afficher sur un second écran"
     }
 }
 
