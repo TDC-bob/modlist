@@ -12,6 +12,12 @@ mods = {
         "branch": "master",
         "version": 1,
         "desc": "Export de la kneeboard à la position voulue (fichier README inclus, à lire)"
+    },
+    "mod-better-fps": {
+        "remote": "https://github.com/TDC-bob/mod-better-FPS.git",
+        "branch": "master",
+        "version": 1,
+        "desc": "Amélioration notable des FPS en rognant sur les fumées et les explosions"
     }
 }
 
