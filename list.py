@@ -6,6 +6,12 @@ mods = {
         "branch": "master",
         "version": 1,
         "desc": "Exports des différents affichages (CDU, RWR, horloge, etc ...) pour pouvoir les afficher sur un second écran"
+    },
+    "mod-kneeboard-exports": {
+        "remote": "https://github.com/TDC-bob/mod-kneeboard-export.git",
+        "branch": "master",
+        "version": 1,
+        "desc": "Export de la kneeboard à la position voulue (voir http://forums.eagle.ru/showthread.php?t=107586)"
     }
 }
 
@@ -17,3 +23,4 @@ skins = {
         "desc": "Skin créée par Bob"
     }
 }
+
