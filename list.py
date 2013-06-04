@@ -27,6 +27,21 @@ skins = {
         "branch": "master",
         "version": 1,
         "desc": "Skin créée par Bob"
+    },
+    "TDC-A-10C": {
+        "remote": "https://github.com/TDC-bob/skin-A10-TDC.git",
+        "branch": "master",
+        "version": 1,
+        "desc": "Skin créée par Bob"
+    }
+}
+
+missions = {
+    "missions-TDC": {
+        "remote": "https://github.com/TDC-bob/skin-huey-bob.git",
+        "branch": "master",
+        "version": 1,
+        "desc": "Skin créée par Bob"
     }
 }
 
