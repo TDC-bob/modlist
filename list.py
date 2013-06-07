@@ -1,11 +1,17 @@
 __author__ = 'bob'
 
 mods = {
+    "mod-ka50-cockpit-RicardoHD": {
+        "remote": "https://github.com/TDC-bob/mod-ka50-cockpit-RicardoHD.git",
+        "branch": "master",
+        "version": 1,
+        "desc": "Un cockpit en HD et en anglais pour le Hokum, réalisé par Ricardo"
+    },
     "mod-exports": {
         "remote": "https://github.com/TDC-bob/mod-exports.git",
         "branch": "master",
         "version": 1,
-        "desc": "Exports des différents affichages (CDU, RWR, horloge, etc ...) pour pouvoir les afficher sur un second écran"
+        "desc": "Exports des différents affichages (A10 & Ka) pour pouvoir les afficher sur un second écran"
     },
     "mod-kneeboard-exports": {
         "remote": "https://github.com/TDC-bob/mod-kneeboard-export.git",
