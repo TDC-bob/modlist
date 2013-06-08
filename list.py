@@ -32,13 +32,19 @@ skins = {
         "remote": "https://github.com/TDC-bob/skin-huey-bob.git",
         "branch": "master",
         "version": 1,
-        "desc": "La skin de Bob"
+        "desc": "La skin de Bob pour le Huey"
     },
     "TDC-A-10C": {
         "remote": "https://github.com/TDC-bob/skin-A10-TDC.git",
         "branch": "master",
         "version": 1,
         "desc": "Skin TDC de base pour l'A10"
+    },
+    "TDC-A-10C-bob": {
+        "remote": "https://github.com/TDC-bob/skin-A10-bob.git",
+        "branch": "master",
+        "version": 1,
+        "desc": "La skin de Bob pour le A10"
     }
 }
 
