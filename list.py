@@ -38,7 +38,7 @@ skins = {
         "remote": "https://github.com/TDC-bob/skin-A10-TDC.git",
         "branch": "master",
         "version": 1,
-        "desc": "Skin TDC de base pour l'A10"
+        "desc": "Skin TDC de base pour l'A10 - DOIT être installée pour que les autres skins fonctionnent !!!"
     },
     "TDC-A-10C-bob": {
         "remote": "https://github.com/TDC-bob/skin-A10-bob.git",
