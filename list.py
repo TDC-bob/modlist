@@ -11,7 +11,7 @@ mods = {
         "remote": "https://github.com/TDC-bob/mod-exports.git",
         "branch": "master",
         "version": 1,
-        "desc": "Exports des différents affichages (A10 & Ka) pour pouvoir les afficher sur un second écran"
+        "desc": "Exports des différents affichages (A10 et Ka) pour pouvoir les afficher sur un second écran"
     },
     "mod-kneeboard-exports": {
         "remote": "https://github.com/TDC-bob/mod-kneeboard-export.git",
