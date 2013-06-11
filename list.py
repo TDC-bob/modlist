@@ -45,6 +45,48 @@ skins = {
         "branch": "master",
         "version": 1,
         "desc": "La skin de Bob pour le A10"
+    },
+    "TDC-A-10C-Benjee": {
+        "remote": "https://github.com/TDC-bob/skin-A10-Benjee.git",
+        "branch": "master",
+        "version": 1,
+        "desc": "La skin de Benjee pour le A10"
+    },
+    "TDC-A-10C-BigJim": {
+        "remote": "https://github.com/TDC-bob/skin-A10-BigJim.git",
+        "branch": "master",
+        "version": 1,
+        "desc": "La skin de BigJim pour le A10"
+    },
+    "TDC-A-10C-Fenlabise": {
+        "remote": "https://github.com/TDC-bob/skin-A10-Fenlabise.git",
+        "branch": "master",
+        "version": 1,
+        "desc": "La skin de Fenlabise pour le A10"
+    },
+    "TDC-A-10C-Mico": {
+        "remote": "https://github.com/TDC-bob/skin-A10-Mico.git",
+        "branch": "master",
+        "version": 1,
+        "desc": "La skin de Mico pour le A10"
+    },
+    "TDC-A-10C-Richy": {
+        "remote": "https://github.com/TDC-bob/skin-A10-Richy.git",
+        "branch": "master",
+        "version": 1,
+        "desc": "La skin de Richy pour le A10"
+    },
+    "TDC-A-10C-Sleipner": {
+        "remote": "https://github.com/TDC-bob/skin-A10-Sleipner.git",
+        "branch": "master",
+        "version": 1,
+        "desc": "La skin de Sleipner pour le A10"
+    },
+    "TDC-A-10C-Stupefian": {
+        "remote": "https://github.com/TDC-bob/skin-A10-Stupefian.git",
+        "branch": "master",
+        "version": 1,
+        "desc": "La skin de Stupefian pour le A10"
     }
 }
 
